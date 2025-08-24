@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bincude", "Bincude\Bincude.csproj", "{F92E2BF0-1FC6-46A8-9A2F-682B939FC38D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92E2BF0-1FC6-46A8-9A2F-682B939FC38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92E2BF0-1FC6-46A8-9A2F-682B939FC38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92E2BF0-1FC6-46A8-9A2F-682B939FC38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92E2BF0-1FC6-46A8-9A2F-682B939FC38D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60D1A35B-8FE9-4998-B50A-F4C6A654B7A2}
+	EndGlobalSection
+EndGlobal

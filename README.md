@@ -20,4 +20,4 @@ Besides the XOR protection, there are some files that are compressed, specifical
 
 While nothing can be confirmed, this seems to derive from a really old format of the 80's called .ARC, which used similar compression techniques and since the Motorola 68000 (which is big endian) was the defacto option for most machines, the format was designed that way.
 
-#### In this program, this procedure is not done when recreating .BIN files since it is completely unecessary.
+#### In this program, this procedure is not done when recreating .BIN files since it is completely unnecessary.
